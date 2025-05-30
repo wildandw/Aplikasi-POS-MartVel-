@@ -11,3 +11,7 @@ Thumbs.db
 
 # VSCode settings
 .vscode/
+
+*.db
+*.sqlite
+*.sqlite3
